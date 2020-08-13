@@ -46,7 +46,7 @@ body{
 }
 .text-box{
     position: absolute;
-    top: 44%;
+    top: 43%;
     left: 50%;
     transform: translate(-40%, -50%);
 }
